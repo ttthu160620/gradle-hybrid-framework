@@ -1,0 +1,54 @@
+[INFO ] [2022-09-02 17:08:55,041] Pre-Condition 01: Open browser: chromeand navigate to home page
+[INFO ] [2022-09-02 17:09:00,288] Search_01_Search_With_Empty_Data - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:01,609] Search_01_Search_With_Empty_Data - Step 02: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:01,728] Search_01_Search_With_Empty_Data - Step 03: Verify error message displayed in alert
+[INFO ] [2022-09-02 17:09:01,735] Search_01_Search_With_Empty_Data - Step 04: Accept alert
+[INFO ] [2022-09-02 17:09:01,834] Search_02_Search_With_Not_Existing_Data - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:02,333] Search_02_Search_With_Not_Existing_Data - Step 02: Enter to Search textbox with value is: Macbook Pro 2050
+[INFO ] [2022-09-02 17:09:02,458] Search_02_Search_With_Not_Existing_Data - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:04,918] Search_02_Search_With_Not_Existing_Data - Step 04: Verify result message is displayed
+[INFO ] [2022-09-02 17:09:04,984] Search_03_Search_With_Relate_Data - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:05,439] Search_03_Search_With_Relate_Data - Step 02: Enter to Search textbox with value is: lenovo
+[INFO ] [2022-09-02 17:09:05,553] Search_03_Search_With_Relate_Data - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:07,193] Search_03_Search_With_Relate_Data - Step 04: Verify 2 products are displayed
+[INFO ] [2022-09-02 17:09:07,380] Search_04_Search_With_Absolute_Data - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:07,895] Search_04_Search_With_Absolute_Data - Step 02: Enter to Search textbox with value is: Thinkpad X1 Carbon Laptop
+[INFO ] [2022-09-02 17:09:08,050] Search_04_Search_With_Absolute_Data - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:08,587] Search_04_Search_With_Absolute_Data - Step 04: Verify only 1 product is displayed
+[INFO ] [2022-09-02 17:09:08,734] Search_05_Advanced_Search_With_Parent_Categories - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:09,212] Search_05_Advanced_Search_With_Parent_Categories - Step 02: Enter to Search textbox with value is:Apple Macbook Pro
+[INFO ] [2022-09-02 17:09:09,353] Search_05_Advanced_Search_With_Parent_Categories - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:09,870] Search_05_Advanced_Search_With_Parent_Categories - Step 04: Check 'Advanced Search' checkbox
+[INFO ] [2022-09-02 17:09:09,976] Search_05_Advanced_Search_With_Parent_Categories - Step 05: Select 'Computers' value in Categories dropdown
+[INFO ] [2022-09-02 17:09:10,079] Search_05_Advanced_Search_With_Parent_Categories - Step 06: Uncheck 'Automatically search sub categories' checkbox
+[INFO ] [2022-09-02 17:09:10,133] Search_05_Advanced_Search_With_Parent_Categories - Step 07: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:11,134] Search_05_Advanced_Search_With_Parent_Categories - Step 08: Verfify result message is displayed
+[INFO ] [2022-09-02 17:09:11,178] Search_05_Advanced_Search_With_Parent_Categories - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:11,615] Search_05_Advanced_Search_With_Parent_Categories - Step 02: Enter to Search textbox with value is:Apple Macbook Pro
+[INFO ] [2022-09-02 17:09:11,744] Search_05_Advanced_Search_With_Parent_Categories - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:12,272] Search_05_Advanced_Search_With_Parent_Categories - Step 04: Check 'Advanced Search' checkbox
+[INFO ] [2022-09-02 17:09:12,358] Search_05_Advanced_Search_With_Parent_Categories - Step 05: Select 'Computers' value in Categories dropdown
+[INFO ] [2022-09-02 17:09:12,447] Search_05_Advanced_Search_With_Parent_Categories - Step 06: Uncheck 'Automatically search sub categories' checkbox
+[INFO ] [2022-09-02 17:09:12,529] Search_05_Advanced_Search_With_Parent_Categories - Step 07: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:13,212] Search_05_Advanced_Search_With_Parent_Categories - Step 08: Verfify only 1 product is displayed
+[INFO ] [2022-09-02 17:09:13,291] Search_05_Advanced_Search_With_Parent_Categories - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:13,754] Search_05_Advanced_Search_With_Parent_Categories - Step 02: Enter to Search textbox with value is:Apple Macbook Pro
+[INFO ] [2022-09-02 17:09:13,892] Search_05_Advanced_Search_With_Parent_Categories - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:14,386] Search_05_Advanced_Search_With_Parent_Categories - Step 04: Check 'Advanced Search' checkbox
+[INFO ] [2022-09-02 17:09:14,474] Search_05_Advanced_Search_With_Parent_Categories - Step 05: Select 'Computers' value in Categories dropdown
+[INFO ] [2022-09-02 17:09:14,569] Search_05_Advanced_Search_With_Parent_Categories - Step 06: Uncheck 'Automatically search sub categories' checkbox
+[INFO ] [2022-09-02 17:09:14,650] Search_05_Advanced_Search_With_Parent_Categories - Step 07: Select 'HP' value in Manufaturer dropdown
+[INFO ] [2022-09-02 17:09:14,744] Search_05_Advanced_Search_With_Parent_Categories - Step 08: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:16,001] Search_05_Advanced_Search_With_Parent_Categories - Step 07: Verfify result message is displayed
+[INFO ] [2022-09-02 17:09:16,058] Search_05_Advanced_Search_With_Parent_Categories - Step 01: Navigate Home page
+[INFO ] [2022-09-02 17:09:16,554] Search_05_Advanced_Search_With_Parent_Categories - Step 02: Enter to Search textbox with value is:Apple Macbook Pro
+[INFO ] [2022-09-02 17:09:16,698] Search_05_Advanced_Search_With_Parent_Categories - Step 03: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:17,183] Search_05_Advanced_Search_With_Parent_Categories - Step 04: Check 'Advanced Search' checkbox
+[INFO ] [2022-09-02 17:09:17,281] Search_05_Advanced_Search_With_Parent_Categories - Step 05: Select 'Computers' value in Categories dropdown
+[INFO ] [2022-09-02 17:09:17,393] Search_05_Advanced_Search_With_Parent_Categories - Step 06: Uncheck 'Automatically search sub categories' checkbox
+[INFO ] [2022-09-02 17:09:17,488] Search_05_Advanced_Search_With_Parent_Categories - Step 07: Select 'Apple' value in Manufaturer dropdown
+[INFO ] [2022-09-02 17:09:17,585] Search_05_Advanced_Search_With_Parent_Categories - Step 08: Click to 'Search' button
+[INFO ] [2022-09-02 17:09:18,236] Search_05_Advanced_Search_With_Parent_Categories - Step 09: Verfify only 1 product is displayed
+[INFO ] [2022-09-02 17:09:18,320] OS name = windows 11
+[INFO ] [2022-09-02 17:09:18,321] Driver instance name = chromedriver: chrome on windows (f7a1b2c66a5d8862af401b779f095999)
+[INFO ] [2022-09-02 17:11:58,634]  -------------------------- PASSED -------------------------- 

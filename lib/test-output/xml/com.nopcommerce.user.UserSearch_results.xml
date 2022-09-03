@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run On Chrome"
+           tests="8"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="17.982">
+  <properties />
+  
+  
+            <testcase name="Search_06_Advanced_Search_With_Sub_Categories" time="2.111" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_04_Search_With_Absolute_Data" time="1.348" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_02_Search_With_Not_Existing_Data" time="3.148" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_08_Advanced_Search_Correct_Manufacturer" time="2.262" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_01_Search_With_Empty_Data" time="1.513" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_03_Search_With_Relate_Data" time="2.391" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_07_Advanced_Search_With_Incorrect_Manufacturer" time="2.763" classname="com.nopcommerce.user.UserSearch" />
+                <testcase name="Search_05_Advanced_Search_With_Parent_Categories" time="2.446" classname="com.nopcommerce.user.UserSearch" />
+      
+</testsuite>
